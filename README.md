@@ -10,5 +10,7 @@ algorithm and find which one is best suit for this problem.
 The dataset contain 79 variables and describing almost every aspect of residential homes in this project
 we design a machine learning model to predict the final price of each home using these 79 variables.
 
-### find code in jupeter_notbook.ipynb file
-### find dataset in data.csv file
+## code 
+jupeter_notbook.ipynb file
+## dataset
+data.csv file
