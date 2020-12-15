@@ -11,6 +11,6 @@ The dataset contain 79 variables and describing almost every aspect of residenti
 we design a machine learning model to predict the final price of each home using these 79 variables.
 
 ## code 
-jupeter_notbook.ipynb file
+jupeter_notbook.ipynb
 ## dataset
-data.csv file
+data.csv
